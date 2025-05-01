@@ -1,3 +1,5 @@
+In addition to Jacob Gil's code my adaptation for one dimensional Convolutional Neural Networks is also included here!
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Build Status](https://github.com/jacobgil/pytorch-grad-cam/workflows/Tests/badge.svg)
 [![Downloads](https://static.pepy.tech/personalized-badge/grad-cam?period=month&units=international_system&left_color=black&right_color=brightgreen&left_text=Monthly%20Downloads)](https://pepy.tech/project/grad-cam)
