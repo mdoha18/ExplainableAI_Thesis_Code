@@ -1,4 +1,4 @@
-In addition to Jacob Gil's code my adaptation for one dimensional Convolutional Neural Networks is also included here!
+In addition to Jacob Gil's code I added the code ML Model code used in my thesis (for 2D CNN) and the code to make plots and save results of faithfullness computations.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Build Status](https://github.com/jacobgil/pytorch-grad-cam/workflows/Tests/badge.svg)
